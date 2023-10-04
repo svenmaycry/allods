@@ -1,0 +1,51 @@
+[
+   {
+     "id": 1,
+     "title": "Игровое время",
+     "imagePath": "https://i.ibb.co/1ZLvVnB/item-time.png",
+     "count": "-",
+     "days": "30 дней"
+   },
+   {
+     "id": 2,
+     "title": "Запечатанный набор инструментов",
+     "imagePath": "https://i.ibb.co/zxyBFL1/item-box.png",
+     "count": "1",
+     "days": "1"
+   },
+   {
+     "id": 3,
+     "title": "Хрупкая чистая руна 10-й ступени",
+     "imagePath": "https://i.ibb.co/VV3y7F1/item-rune.png",
+     "count": "1",
+     "days": "-"
+   },
+   {
+     "id": 4,
+     "title": "Большой символ изобилия творца",
+     "imagePath": "https://i.ibb.co/rwRMhm1/item-symbol.png",
+     "count": "10",
+     "days": "-"
+   },
+   {
+     "id": 5,
+     "title": "Мана-батарея",
+     "imagePath": "https://i.ibb.co/HCR51J1/item-mp.png",
+     "count": "-",
+     "days": "20"
+   },
+   {
+     "id": 6,
+     "title": "Модуль памяти",
+     "imagePath": "https://i.ibb.co/0yMHskW/item-hp.png",
+     "count": "-",
+     "days": "10"
+   },
+   {
+     "id": 7,
+     "title": "Помощник Вито",
+     "imagePath": "https://i.ibb.co/vPMKw2s/item-bull.png",
+     "count": "1",
+     "days": "1"
+   }
+ ]
